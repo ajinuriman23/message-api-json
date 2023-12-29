@@ -1,0 +1,6 @@
+<-- install module -->
+
+npm install
+npm start
+
+link github:https://github.com/ajinuriman23/project-dfe
