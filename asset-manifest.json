@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-dfe/static/css/main.850f9143.css",
+    "main.js": "/project-dfe/static/js/main.ae00c8d2.js",
+    "static/media/mark-zuckerberg.jpg": "/project-dfe/static/media/mark-zuckerberg.9e3d02599f970663ade4.jpg",
+    "static/media/profile-ku.jpg": "/project-dfe/static/media/profile-ku.fbf879ffbde6fd170913.jpg",
+    "index.html": "/project-dfe/index.html",
+    "main.850f9143.css.map": "/project-dfe/static/css/main.850f9143.css.map",
+    "main.ae00c8d2.js.map": "/project-dfe/static/js/main.ae00c8d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850f9143.css",
+    "static/js/main.ae00c8d2.js"
+  ]
+}
